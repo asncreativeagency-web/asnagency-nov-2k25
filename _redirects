@@ -1,0 +1,5 @@
+# Redirect root to home-1.html
+/    /home-1.html    200
+
+# Redirect /index.html to home-1.html
+/index.html    /home-1.html    200
